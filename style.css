@@ -163,3 +163,38 @@ button:hover {
     display: flex;
     justify-content: end;
 }
+
+.fourth-section {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.signup-container {
+    background-color: #3882F6;
+    margin-top: 60px;
+    margin-bottom: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 100px;
+    padding: 40px 80px;
+    border-radius: 8px;
+}
+
+.signup-container h1 {
+    color: white;
+    font-weight: 700;
+    font-size: large;
+}
+
+.signup-container span {
+    color: rgba(255, 255, 255, 0.726);
+    font-size: small;
+    font-weight: 600;
+}
+
+.signup-container button {
+    border: solid 2px white;
+    padding: 8px 15px;
+}
