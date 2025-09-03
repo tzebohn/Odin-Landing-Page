@@ -198,3 +198,17 @@ button:hover {
     border: solid 2px white;
     padding: 8px 15px;
 }
+
+.footer-section {
+    background-color: #1F2937;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+footer {
+    color: white;
+    font-size: small;
+    font-weight: 200;
+    padding: 20px;
+}
