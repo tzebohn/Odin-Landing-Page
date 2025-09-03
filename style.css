@@ -136,3 +136,30 @@ button:hover {
     font-size: small;
     text-align: center;
 }
+
+.third-section {
+    background-color: #EFE7EB;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.quote-container {
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+.quote-container p {
+    color: #1f2937;
+    font-weight: 300;
+    font-size: x-large;
+    font-style: italic;
+    width: 100%;
+    max-width: 820px;
+}
+
+.quote-container span {
+    font-weight: 600;
+    display: flex;
+    justify-content: end;
+}
